@@ -25,3 +25,23 @@ body {
     text-wrap: balance;
   }
 }
+.container{
+  background: gray;
+  display: flex;
+  justify-content: center;
+  margin-top: 300px; 
+}
+
+.box1{
+ padding-right: 100px;
+ text-decoration: underline;
+}
+
+.box2{
+  padding-right: 100px;
+  text-decoration: underline;
+}
+.box3{
+  padding-right: 100px; 
+  text-decoration: underline;
+}
