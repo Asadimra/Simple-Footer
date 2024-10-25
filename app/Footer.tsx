@@ -27,10 +27,8 @@
                         <li>Dress</li>
                     </ul>
                 </div>
-
             </div>
     </footer>       
     </div>  
     )
-
 }
