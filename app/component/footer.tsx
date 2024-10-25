@@ -1,9 +1,8 @@
-
  export default function Footer(){
     return(
    <div>
     <footer>
-        <div className="container">
+        <div className="container"> 
             <div className="box1">
                 <ul>
                     <li>Contact</li>
@@ -30,12 +29,8 @@
                 </div>
 
             </div>
-        
-
-    </footer>
-        
-    </div>
-    
+    </footer>       
+    </div>  
     )
 
 }
